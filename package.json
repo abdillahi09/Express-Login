@@ -1,0 +1,24 @@
+{
+  "name": "question1",
+  "version": "1.0.0",
+  "description": "assignment solution for expressjs server",
+  "main": "nodemon index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "setup"
+  ],
+  "author": "Bashir",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
